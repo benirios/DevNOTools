@@ -1,0 +1,10 @@
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\bin\Debug\DevNOTools.exe.config
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\bin\Debug\DevNOTools.exe
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\bin\Debug\DevNOTools.pdb
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.csproj.AssemblyReference.cache
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.Form1.resources
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.Properties.Resources.resources
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.csproj.GenerateResource.cache
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.csproj.CoreCompileInputs.cache
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.exe
+C:\Users\a40297\source\repos\DevNOTools\DevNOTools\obj\Debug\DevNOTools.pdb
